@@ -1,0 +1,120 @@
+body {
+  background-image: url('Royalty3.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.imgalign {
+  position: absolute;
+  display: block;
+  margin-left: auto;
+  margin-right:620px;
+  width: 15%;
+}
+
+.motoalign {
+  position: absolute;
+  right: 662px;
+  bottom: 460px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: italic;
+  font-size: larger;
+}
+
+.motoalign1 {
+  position: absolute;
+  right: 647px;
+  bottom: 430px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: italic;
+  font-size: larger;
+}
+
+
+
+
+/* CSS */
+.button-63 {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  /* box-sizing: border-box; */
+  position: fixed;
+  right: 625px;
+  bottom: 215px;
+  color: black;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  max-width: 100%;
+  min-width: 140px;
+  padding: 19px 24px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.button-63:active,
+.button-63:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .button-63 {
+    font-size: 24px;
+    min-width: 196px;
+  }
+} 
+
+
+.button-631 {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  /* box-sizing: border-box; */
+  position: fixed;
+  right: 625px;
+  bottom: 125px;
+  color: black;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  max-width: 100%;
+  min-width: 140px;
+  padding: 19px 24px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.button-631:active,
+.button-631:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .button-631 {
+    font-size: 24px;
+    min-width: 196px;
+  }
+} 
+button:hover {
+  opacity: 0.8;
+  outline: 0;
+}
+
